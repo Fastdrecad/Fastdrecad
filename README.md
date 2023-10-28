@@ -10,6 +10,9 @@ I'm an indie full-stack developer and industrial designer building my version of
 
 ## Get In Touch
 
+<br/>
+<br/>
+
 <p align="left">
   <a href="mailto: andrijas.micun@gmail.com">
      <img alt="email" title="Contact Me" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/></a> 
@@ -21,11 +24,11 @@ I'm an indie full-stack developer and industrial designer building my version of
      <img alt="andrija-design" title="Checkout my Portfolio" src="https://camo.githubusercontent.com/dadb24484d5edf73040ab9e8f051b423b71d0b0c790c13f7b425348816fce117/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7274666f6c696f2d3041304130413f7374796c653d666f722d7468652d6261646765266c6f676f3d6465762e746f266c6f676f436f6c6f723d7768697465"/></a>
 </p>
 
-<br/>
-
 ---
 
 ### ⚙️ Languages and Tools
+
+<br/>
 
 <p align="center">
    <img align="left" alt="JavaScript" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
