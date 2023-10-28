@@ -4,7 +4,7 @@ ________________________________________________________________________________
 I live in Belgrade. I like music, travel, good food, being outside, and coding.
 
 Get In Touch
-[image](https://github.com/Fastdrecad/Fastdrecad/assets/120337727/628f57af-092c-4d6f-85fe-40966bc64f8c)
+
 <!--
 **Fastdrecad/Fastdrecad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
