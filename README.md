@@ -11,7 +11,6 @@ I'm an indie full-stack developer and industrial designer building my version of
 ## Get In Touch
 
 <br/>
-<br/>
 
 <p align="left">
   <a href="mailto: andrijas.micun@gmail.com">
@@ -26,7 +25,7 @@ I'm an indie full-stack developer and industrial designer building my version of
 
 ---
 
-### ⚙️ Languages and Tools
+## ⚙️ Languages and Tools
 
 <br/>
 
