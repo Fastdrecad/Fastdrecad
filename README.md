@@ -6,7 +6,7 @@
 
 **`Digital Craftsman (Developer / Designer / 3D Artist / Musician)`**
 
-I'm an indie full-stack developer and industrial designer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All of my design projects are built the same way, from ideation and planning, all the way to finalizing the products with artistic touches.
+I'm a full-stack developer and industrial designer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All of my design projects are built the same way, from ideation and planning, all the way to finalizing the products with artistic touches.
 
 ## Get In Touch
 
