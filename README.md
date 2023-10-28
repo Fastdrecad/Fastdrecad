@@ -47,10 +47,10 @@ I'm an indie full-stack developer and industrial designer building my version of
 
 ### 📊 Stats
 
-![Fastdrecad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fastdrecad
+![Fastdrecad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fastdrecad
 &show_icons=true&theme=gruvbox)
 
 #
 
 <details>
-  <summary><h3>📖 Fastdrecad's Coding Journey</h3></summary>
+  <summary><h3>🖥️ Fastdrecad's Coding Journey</h3></summary>
