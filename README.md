@@ -1,10 +1,8 @@
 <h1 color="#00cdac">🏄🏽‍♂️ Fastdrecad</h1>
 
 <p align="center" >
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=00CDAC&random=false&width=435&lines=Full-stack+web+developer;1%2B+year+of+coding+experience;10%2B+years+in+Industrial+Design;Always+learning+new+things" alt="Typing SVG" /></a>
-</p>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=00CDAC&random=false&width=435&lines=Full-stack+web+developer;1%2B+year+of+coding+experience;10%2B+years+in+Industrial+Design;Always+learning+new+things" alt="Typing SVG" /></a>
+</p>
 
 **`Digital Craftsman (Developer / Designer / 3D Artist / Musician)`**
 
@@ -29,7 +27,7 @@ I'm an indie full-stack developer and industrial designer building my version of
 
 ### ⚙️ Languages and Tools
 
-<p>
+<p align="center">
    <img align="left" alt="JavaScript" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img align="left" alt="JavaScript" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  />
    <img align="left" alt="JavaScript" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
