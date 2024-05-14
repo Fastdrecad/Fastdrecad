@@ -6,8 +6,9 @@
 
 **`Digital Craftsman (Developer / Designer / 3D Artist / Musician)`**
 
-As a full-stack developer and industrial designer, I am dedicated to shaping the digital realm progressively. Each coding project undergoes a comprehensive journey, starting with meticulous planning and design, and culminating in the resolution of real-world challenges through code. Similarly, my design endeavors follow a parallel path, traversing from ideation and planning to the ultimate realization of products infused with artistic finesse.
-I'm a full-stack developer and industrial designer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All of my design projects are built the same way, from ideation and planning, all the way to finalizing the products with artistic touches.
+As a full-stack developer and industrial designer, I am dedicated to progressively shaping the digital realm. Each coding project undergoes a comprehensive journey, starting with meticulous planning and design, and culminating in the resolution of real-world challenges through code. Similarly, my design endeavors follow a parallel path, from ideation and planning to the ultimate realization of products infused with artistic finesse.
+
+I am building my version of the digital world one step at a time. All coding projects are developed from the ground up, from planning and design to solving real-life problems with code. My design projects follow the same process, from ideation and planning to finalizing the products with artistic touches.
 
 ## Get In Touch
 
