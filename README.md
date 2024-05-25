@@ -1,7 +1,7 @@
 <h1 color="#00cdac">🏄🏽‍♂️ Fastdrecad</h1>
 
 <p align="center" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=00CDAC&random=false&width=435&lines=Full-stack+web+developer;1%2B+year+of+coding+experience;10%2B+years+in+Industrial+Design;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=00CDAC&random=false&width=435&lines=Full-stack+developer;2%2B+year+of+coding+experience;10%2B+years+in+Industrial+Design;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 **`Digital Craftsman (Developer / Designer / 3D Artist / Musician)`**
