@@ -53,8 +53,7 @@ I am building my version of the digital world one step at a time. All coding pro
    <img align="left" alt="nodejs" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
    <img align="left" alt="git" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img align="left" alt="github" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-   <img align="left" alt="tailwindcss" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-   <img align="left" alt="mysql" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="left" alt="mysql" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    <img align="left" alt="mongodb" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
    <img align="left" alt="redux" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
    <img align="left" alt="illustrator" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
